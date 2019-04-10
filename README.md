@@ -1,3 +1,6 @@
+![Imgur](https://i.imgur.com/aDgfByC.png)
+
+
 ```
 ionic cordova plugin add cordova-plugin-geolocation --variable GEOLOCATION_USAGE_DESCRIPTION="To locate you"
 npm install --save @ionic-native/geolocation@5.0.0-beta.21
